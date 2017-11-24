@@ -1,0 +1,6 @@
+##实际上安装的却是 Pillow
+
+```
+brew install libtiff libjpeg libpng webp little-cms2 freetype
+sudo pip install Pillow
+```

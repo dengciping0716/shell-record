@@ -56,7 +56,7 @@ cd nexus-3.4.0-02/
 
 配置端口和目录,可以默认不修改
 
-`vi etc/nexus-default.properties`
+`vi ./etc/nexus-default.properties`
 
 > application-port=8083 
 >
